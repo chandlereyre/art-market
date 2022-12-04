@@ -1,0 +1,33 @@
+body {
+  margin: 0px;
+  font-family: "Poppins", sans-serif;
+  background-color: $deep-purple;
+  color: white;
+  height: 100vh;
+  text-align: center;
+  width: 100vw;
+}
+
+.page-container {
+  width: 100%;
+  padding-top: 40px;
+}
+
+.title {
+  font-size: 4em;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-family: "Barlow", sans-serif;
+  font-size: 2em;
+  color: $light-purple;
+}
+
+p {
+  font-family: "Barlow", sans-serif;
+  font-size: 1.5em;
+  line-height: 40px;
+  color: white;
+  padding: 0px 30px;
+}
